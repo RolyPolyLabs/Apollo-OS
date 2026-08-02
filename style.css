@@ -1,0 +1,9 @@
+body {
+    color: white; /* Text color */
+    background-color: black; /* Optional: dark background for visibility */
+}
+
+/* This targets your links and turns them white */
+a {
+    color: rgb(153, 255, 246); 
+}
